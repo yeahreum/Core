@@ -1,4 +1,4 @@
-Building Yeahreum
+Building Yeahreum CORE
 =============
 
 See doc/build-*.md for instructions on building the various
